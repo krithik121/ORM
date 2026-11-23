@@ -85,8 +85,7 @@ class CarAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-Screenshot 2026-11-23 144904.png
+![Program Output](output.png)
 
-
-## RESULT
+##RESULT
 Thus the program for creating car inventory database database using ORM hass been executed successfully
