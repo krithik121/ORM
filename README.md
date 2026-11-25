@@ -78,14 +78,9 @@ class CarAdmin(admin.ModelAdmin):
         'color'
     )
 
-    ```
-
-
-
-
+```
 ## OUTPUT
-
-![Program Output](output.png)
+<img width="1913" height="965" alt="Screenshot 2026-11-23 144904" src="https://github.com/user-attachments/assets/629d18a0-1d8b-4314-bd92-ed5a0923646e" />
 
 ##RESULT
 Thus the program for creating car inventory database database using ORM hass been executed successfully
